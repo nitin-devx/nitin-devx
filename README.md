@@ -15,8 +15,7 @@
 ## 🧑‍💻 About me
 
 - 🎓 IT student and aspiring software engineer from **Delhi, India**
-- 🔭 Currently working on **[ReviewForge](https://github.com/nitin-devx/ReviewForge)**, an AI-powered pull request reviewer
-- 🌱 Currently exploring **AI-assisted developer tools and system design**
+- 🌱 Exploring **AI-assisted developer tools and system design**
 - 💬 Ask me about **React, Node.js, Express, REST APIs, MongoDB, PostgreSQL**
 - 🤝 Open to **internships, collaborations and open source contributions**
 
